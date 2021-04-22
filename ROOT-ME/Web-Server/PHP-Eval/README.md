@@ -40,7 +40,7 @@ if (isset($_POST['input'])) {
 </html>
 ```
 ## Phương pháp
-Sau khi đọc Hint mình nghĩ flag sẽ nằm trong file .passwd vì vậy ta cần phải "cat" được nó, bằng cách sử dụng hàm system. Nhưng nhìn vào source ta sẽ thấy, cần phải bypass được hàm preg_match để thực hiên được hàm system thông qua hàm eval. Để thực hiện được điều đó ta cần viết được code có thể bypass các filter trên `[a-zA-Z]`.
+Sau khi đọc Hint mình nghĩ flag sẽ nằm trong file .passwd vì vậy ta cần phải "cat" được nó, bằng cách sử dụng hàm system. Nhưng nhìn vào source ta sẽ thấy, cần phải bypass được hàm preg_match để thực hiên được hàm system thông qua hàm eval. Để thực hiện được điều đó ta cần viết được payload có thể bypass các filter trên `[a-zA-Z]`.
 
 Sau khi tham khảo một số nguồn thì mình tìm được 1 link viết khá đầy đủ về ý tưởng bypass filter này
 >https://securityonline.info/bypass-waf-php-webshell-without-numbers-letters/
