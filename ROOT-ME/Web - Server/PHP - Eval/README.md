@@ -63,4 +63,4 @@ Sau khi submit, server sẽ trả về cho ta kết quả
 
 Mình cũng không rõ cái system nó ở đâu ra nên đã mặc kệ :v 
 ## Flag
->M!xIng_PHP_w1th_3v4l_L0L
+>C0_l4m_th1_m01_c0_4n
