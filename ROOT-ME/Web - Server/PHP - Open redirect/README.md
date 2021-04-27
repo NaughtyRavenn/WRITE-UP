@@ -31,7 +31,8 @@ Vậy giờ mình chỉ cần thay đổi $url sang 1 page khác, và MD5 hash n
 ![image](https://user-images.githubusercontent.com/72856776/116273598-172d7280-a7ac-11eb-8168-efbc1b1fffcc.png)
 
 ## Flag
->e6f8a530811d5a479812d7b82fc1a5c5
+>C0_l4m_th1_m01_c0_4n
+
 
 
 
